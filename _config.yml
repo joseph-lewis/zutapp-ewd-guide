@@ -1,0 +1,8 @@
+title: ZuTapp EWD User Guide
+description: Complete guide to the Electronic Work Diary module
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  toc_levels: 1..3
